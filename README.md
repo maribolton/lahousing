@@ -1,5 +1,5 @@
 # LA Housing
-This is a test.
+This helps visualize housing data with a map overlay.
 
 ## Mac VS Code Python setup guide
 [Medium](https://maribolton.medium.com/)
